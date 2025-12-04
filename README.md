@@ -62,4 +62,4 @@ REFERENCE NUMBER:25017676
 
 **RESULTS**
 
-Thus the JK flipflop is implemented and verified.
+Studied and verified the truth table of JK flip-flop in Quartus II using verilog programming successfully.
